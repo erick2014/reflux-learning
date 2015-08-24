@@ -1,0 +1,21 @@
+{
+  "name": "flux-learning",
+  "version": "1.0.0",
+  "description": "a simple app using reflux pattern and reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erick garcia",
+  "license": "ISC",
+  "dependencies": {
+    "babelify": "^6.2.0",
+    "browserify": "^11.0.1",
+    "events": "^1.0.2",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.0",
+    "lodash": "^3.10.1",
+    "react": "^0.13.3",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
